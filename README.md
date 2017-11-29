@@ -10,5 +10,7 @@ Columbia Photographic Images and Photorealistic Computer Graphics Dataset is a d
 
 T.-T. Ng, S.-F. Chang, Y.-F. Hsu, M. Pepeljugoski,“Columbia Photographic Images and Photorealistic Computer Graphics Dataset,” Technical Report 205-2004-5, Columbia University, Feb 2005.
 
-The dataset can be downloaded from <a href=https://drive.google.com/file/d/0BwHrTmiHZpQCRFFVMWFEaWsyaWM/view?usp=sharing>this link</a>.
+The dataset can be downloaded from https://drive.google.com/file/d/0BwHrTmiHZpQCRFFVMWFEaWsyaWM/view?usp=sharing
+
+The recaptured cg set can be downloaded from https://drive.google.com/open?id=1nGyARv4yJ0UTuRP7MU2Sp3PpTIV1Uz9D
 
